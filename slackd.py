@@ -4,7 +4,7 @@
 # other liability, arising from, out of or in connection with the software or
 # the use or other dealings in the software.
 #
-# Author: rsam@paloaltonetworks.com
+# Author: roy.sam@live.com
 # Release date: 13 Jul 2025
 # Release version: 0.2
 #
