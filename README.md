@@ -20,7 +20,7 @@ This application provides a user-friendly way to export conversations from Slack
 
 Before you begin, ensure you have met the following requirements:
 
-  * You have Python 3.x installed.
+  * You have Python 3.x installed. The code is validated with Python 3.9.
   * You have a Slack account and are a member of the workspace you want to export messages from.
 
 ## Installation
@@ -65,5 +65,5 @@ Before you begin, ensure you have met the following requirements:
 
 This script is provided "as is", without warranty of any kind, express or implied. In no event shall the author be held liable for any claim, damages or other liability, arising from, out of or in connection with the software or the use or other dealings in the software.
 
-**Author:** rsam@paloaltonetworks.com
+**Author:** Roy Sam
 **Release Version:** 0.2
